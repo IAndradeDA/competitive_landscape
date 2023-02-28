@@ -18,8 +18,7 @@ Our mission was to create and populate an appropriate database with many coding 
 
 ## Presentation and conclusions:
 
-You can find it [Here: Project_2_SQL.pdf](http://IAndradeDA.github.io/competitive_landscape/Project_2_SQL.pdf)
-
+You can find it [Here: Project_2_SQL.pdf](https://github.com/IAndradeDA/competitive_landscape/blob/main/PDF/Project_2_SQL.pdf)
 
 
 
